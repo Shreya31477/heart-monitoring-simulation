@@ -1,0 +1,7 @@
+condition,n,% classified abnormal
+diastolic_murmur,21,100.0
+holosystolic_murmur,22,100.0
+irregular_rhythm,18,100.0
+normal,103,0.9708737864077669
+s3_gallop,22,95.45454545454545
+systolic_ejection_murmur,14,92.85714285714286

@@ -1,0 +1,6 @@
+segment,condition,true label,updates correct %,alarm latency (s),true HR,estimated HR (median)
+0-60 s,normal,0,100.0,,72,71.42857142857143
+60-120 s,holosystolic_murmur,1,100.0,12.5,95,95.26209677419355
+120-165 s,normal,0,91.66666666666666,,68,68.18181818181819
+165-225 s,irregular_rhythm,1,83.33333333333334,25.0,80,74.90597529765216
+225-270 s,systolic_ejection_murmur,1,100.0,2.5,110,111.11111111111111
