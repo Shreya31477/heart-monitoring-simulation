@@ -43,19 +43,16 @@ This project builds a heart sound abnormality detector from first principles. It
 ### Real recording replayed through the monitor
 ![Real replay](sim_fig5_real_replay.png)
 
-Result tables (CSV) are in [`results/simulation/tables`](results/simulation/tables) and [`results/tables`](results/tables).
+Result tables (CSV): [`sim_hr_accuracy.csv`](sim_hr_accuracy.csv), [`sim_robustness_grid.csv`](sim_robustness_grid.csv), [`sim_session_log.csv`](sim_session_log.csv), [`sim_session_metrics.csv`](sim_session_metrics.csv), [`sim_synthetic_test_by_condition.csv`](sim_synthetic_test_by_condition.csv)
 
 ## Repository structure
 
 ```
 ├── HEART_MONITORING_SIMULATION_MODEL_.ipynb   # main notebook (Google Colab)
-├── results/
-│   ├── simulation/
-│   │   ├── figures/                    # simulation graphs
-│   │   ├── tables/                     # simulation result tables
-│   │   └── heart_monitor_model.joblib  # trained monitor model
-│   └── tables/                         # classifier experiment results
-└── README.md
+├── sim_fig1 … sim_fig5 (.png)                 # simulation graphs
+├── sim_*.csv                                  # simulation result tables
+├── README.md
+└── LICENSE
 ```
 
 ## How to run
