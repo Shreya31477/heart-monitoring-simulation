@@ -29,19 +29,19 @@ This project builds a heart sound abnormality detector from first principles. It
 ## Results
 
 ### Synthetic heart sounds
-![Synthetic PCG](results/simulation/figures/sim_fig1_synthetic_pcg.png)
+![Synthetic PCG](sim_fig1_synthetic_pcg.png)
 
 ### Simulated monitoring session
-![Monitoring session](results/simulation/figures/sim_fig2_monitor_session.png)
+![Monitoring session](sim_fig2_monitor_session.png)
 
 ### Robustness to noise
-![Robustness](results/simulation/figures/sim_fig3_robustness.png)
+![Robustness](sim_fig3_robustness.png)
 
 ### Heart-rate estimation accuracy
-![HR accuracy](results/simulation/figures/sim_fig4_hr_accuracy.png)
+![HR accuracy](sim_fig4_hr_accuracy.png)
 
 ### Real recording replayed through the monitor
-![Real replay](results/simulation/figures/sim_fig5_real_replay.png)
+![Real replay](sim_fig5_real_replay.png)
 
 Result tables (CSV) are in [`results/simulation/tables`](results/simulation/tables) and [`results/tables`](results/tables).
 
