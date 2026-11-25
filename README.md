@@ -3,6 +3,7 @@
 Heart sound (PCG) abnormality detection turned into a real-time heart monitoring simulation.
 
 **Course:** Mathematics behind AI · M.Tech in Artificial Intelligence, Thapar Institute of Engineering & Technology
+
 **Authors:** Shreya Das, Tejashwini Yadav
 
 ---
