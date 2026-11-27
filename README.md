@@ -6,6 +6,11 @@ Heart sound (PCG) abnormality detection turned into a real-time heart monitoring
 
 **Authors:** Shreya Das, Tejashwini Yadav
 
+## Research Paper
+
+📄 **Heart Monitoring Simulation Model** – Shreya Das, Tejashwini Yadav
+[Read the paper on Overleaf](https://www.overleaf.com/project/6afc58f68bd4b3aedf7f0272)
+
 ---
 
 ## Overview
